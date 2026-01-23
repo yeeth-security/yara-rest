@@ -1,0 +1,17 @@
+# Binaries
+yara-rest
+yara-rest.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Test artifacts
+*.vsix
+tmp/
+
+# Test coverage
+coverage.out
+coverage.html
